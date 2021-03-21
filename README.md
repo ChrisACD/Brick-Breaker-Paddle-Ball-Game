@@ -1,0 +1,2 @@
+# Brick-Breaker-Paddle-Ball-Game
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5658d124e0a4f02977a97ae2140fc09)](https://app.codacy.com/gh/Chrisdjya/Brick-Breaker-Paddle-Ball-Game?utm_source=github.com&utm_medium=referral&utm_content=Chrisdjya/Brick-Breaker-Paddle-Ball-Game&utm_campaign=Badge_Grade_Settings)
